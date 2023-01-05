@@ -1,5 +1,5 @@
 rich
 requests
 unicode
-cleantext
+clean-text
 unidecode
