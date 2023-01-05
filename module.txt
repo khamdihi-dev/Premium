@@ -2,4 +2,4 @@ rich
 requests
 unicode
 cleantext
-
+unidecode
