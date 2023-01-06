@@ -1,11 +1,13 @@
 # Cara install
+    • cd
+    • rm -rf Premium
     • pkg update
     • pkg upgrade 
     • pkg install python
-    • pip install -r module.txt
     • pkg install git
     • git clone https://github.com/khamdihi-dev/Premium
     • cd Premium
+    • pip install -r module.txt
     • python run.py
 
 # Cara update manual
